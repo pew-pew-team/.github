@@ -8,8 +8,6 @@
 
 # Pew Pew Game
 
-## The Best Game Ever\*
+> [!IMPORTANT]
+> The Best Game Ever.
 
-------
-
-_*probably_
