@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/pew-pew-team"><img src="https://raw.githubusercontent.com/pew-pew-team/.github/master/assets/logo.svg"/></a>
+    <a href="https://github.com/pew-pew-team"><img src="https://raw.githubusercontent.com/pew-pew-team/.github/master/assets/logo.svg" width="256" height="256" /></a>
 </p>
 
 <p align="center">
